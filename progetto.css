@@ -1,16 +1,15 @@
 .tobenottobe{
    font-family:insolence; 
    font-size:15px; 
-   color:rgb(202, 131, 131);
+   color:rgb(221, 40, 40);
    background-color:rgb(28, 23, 23);
    text-align: center;
 } 
 
 .boxtext{
-    width: fit-content;
+    width: 50px;
     height: fit-content;
     text-align: center;
-    background-color: black;
-    color: beige;
+    background-color: rgb(255, 255, 255);
     border: 5px;
 }
